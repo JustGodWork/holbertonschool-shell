@@ -9,3 +9,5 @@
 [3-listfiles](./3-listfiles) - Display current directory contents in a long format.
 
 [4-listmorefiles](./4-listmorefiles) - Display current directory contents, including hidden files. Using the long format.
+
+[5-listfilesdigitonly](./5-listfilesdigitonly) - Display current directory contents (hidden includes) in long format with user and group IDs displayed numerically.
