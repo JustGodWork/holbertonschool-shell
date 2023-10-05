@@ -22,4 +22,6 @@
 
 [10-back](./10-back) - Change the working directory to the previous one.
 
-[11-lists](./11-lists) - List current directory, parent directory, boot directory with hidden files/folders and in long format. 
+[11-lists](./11-lists) - List current directory, parent directory, boot directory with hidden files/folders and in long format.
+
+[12-file_type](./12-file_type) - Print the type of the file named `iamafile`. The file `iamafile` will be in the `/tmp directory` when we will run our script. 
