@@ -31,3 +31,5 @@
 [14-copy_html](./14-copy_html) - Copy files with html extension in the parent directory if not exist.
 
 [15-lets_move](./15-lets_move) - Move all files with an uppercase letter to the directory `/tmp/u`.
+
+[16-clean_emacs](./16-clean_emacs) - Delete all files ending with `~`.
