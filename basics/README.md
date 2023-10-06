@@ -29,3 +29,5 @@
 [13-symbolic_link](./13-symbolic_link) - Create a symbolic link to `/bin/ls`, named `__ls__` in the current directory.
 
 [14-copy_html](./14-copy_html) - Copy files with html extension in the parent directory if not exist.
+
+[15-lets_move](./15-lets_move) - Move all files with an uppercase letter to the directory `/tmp/u`.
