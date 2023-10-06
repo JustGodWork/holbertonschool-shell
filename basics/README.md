@@ -33,3 +33,5 @@
 [15-lets_move](./15-lets_move) - Move all files with an uppercase letter to the directory `/tmp/u`.
 
 [16-clean_emacs](./16-clean_emacs) - Delete all files ending with `~`.
+
+[17-tree](./17-tree) - Make folders recursively. 
